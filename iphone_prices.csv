@@ -1,0 +1,622 @@
+Model,Storage,Condition,Price
+,,,
+iPhone 11,,,
+iPhone 11,64GB,,
+iPhone 11,64GB,Dead,R 115.50
+iPhone 11,64GB,Poor,R 115.50
+iPhone 11,64GB,Good,"R 3,517.80"
+iPhone 11,64GB,Mint,"R 3,744.40"
+iPhone 11,64GB,Sealed,"R 4,651.90"
+iPhone 11,128GB,,
+iPhone 11,128GB,Dead,R 115.50
+iPhone 11,128GB,Poor,R 115.50
+iPhone 11,128GB,Good,"R 4,067.80"
+iPhone 11,128GB,Mint,"R 4,294.40"
+iPhone 11,128GB,Sealed,"R 5,201.90"
+iPhone 11,256GB,,
+iPhone 11,256GB,Dead,R 115.50
+iPhone 11,256GB,Poor,R 115.50
+iPhone 11,256GB,Good,"R 4,617.80"
+iPhone 11,256GB,Mint,"R 4,844.40"
+iPhone 11,256GB,Sealed,"R 5,751.90"
+iPhone 11 Pro,,,
+iPhone 11 Pro,64GB,,
+iPhone 11 Pro,64GB,Dead,R 115.50
+iPhone 11 Pro,64GB,Poor,R 115.50
+iPhone 11 Pro,64GB,Good,"R 3,517.80"
+iPhone 11 Pro,64GB,Mint,"R 3,744.40"
+iPhone 11 Pro,64GB,Sealed,"R 4,651.90"
+iPhone 11 Pro,256GB,,
+iPhone 11 Pro,256GB,Dead,R 115.50
+iPhone 11 Pro,256GB,Poor,R 115.50
+iPhone 11 Pro,256GB,Good,"R 4,067.80"
+iPhone 11 Pro,256GB,Mint,"R 4,294.40"
+iPhone 11 Pro,256GB,Sealed,"R 5,201.90"
+iPhone 11 Pro,512GB,,
+iPhone 11 Pro,512GB,Dead,R 115.50
+iPhone 11 Pro,512GB,Poor,R 115.50
+iPhone 11 Pro,512GB,Good,"R 4,617.80"
+iPhone 11 Pro,512GB,Mint,"R 4,844.40"
+iPhone 11 Pro,512GB,Sealed,"R 5,751.90"
+iPhone 11 Pro Max,,,
+iPhone 11 Pro Max,64GB,,
+iPhone 11 Pro Max,64GB,Dead,R 115.50
+iPhone 11 Pro Max,64GB,Poor,R 115.50
+iPhone 11 Pro Max,64GB,Good,"R 4,755.30"
+iPhone 11 Pro Max,64GB,Mint,"R 5,064.40"
+iPhone 11 Pro Max,64GB,Sealed,"R 6,301.90"
+iPhone 11 Pro Max,256GB,,
+iPhone 11 Pro Max,256GB,Dead,R 115.50
+iPhone 11 Pro Max,256GB,Poor,R 115.50
+iPhone 11 Pro Max,256GB,Good,"R 5,305.30"
+iPhone 11 Pro Max,256GB,Mint,"R 5,614.40"
+iPhone 11 Pro Max,256GB,Sealed,"R 6,851.90"
+iPhone 11 Pro Max,512GB,,
+iPhone 11 Pro Max,512GB,Dead,R 115.50
+iPhone 11 Pro Max,512GB,Poor,R 115.50
+iPhone 11 Pro Max,512GB,Good,"R 5,855.30"
+iPhone 11 Pro Max,512GB,Mint,"R 6,164.40"
+iPhone 11 Pro Max,512GB,Sealed,"R 7,401.90"
+iPhone 12,,,
+iPhone 12,64GB,,
+iPhone 12,64GB,Dead,R 115.50
+iPhone 12,64GB,Poor,R 115.50
+iPhone 12,64GB,Good,"R 4,198.70"
+iPhone 12,64GB,Mint,"R 4,470.40"
+iPhone 12,64GB,Sealed,"R 5,559.40"
+iPhone 12,128GB,,
+iPhone 12,128GB,Dead,R 115.50
+iPhone 12,128GB,Poor,R 115.50
+iPhone 12,128GB,Good,"R 4,748.70"
+iPhone 12,128GB,Mint,"R 5,020.40"
+iPhone 12,128GB,Sealed,"R 6,109.40"
+iPhone 12,256GB,,
+iPhone 12,256GB,Dead,R 115.50
+iPhone 12,256GB,Poor,R 115.50
+iPhone 12,256GB,Good,"R 5,298.70"
+iPhone 12,256GB,Mint,"R 5,570.40"
+iPhone 12,256GB,Sealed,"R 6,659.40"
+iPhone 12 Mini,,,
+iPhone 12 Mini,64GB,,
+iPhone 12 Mini,64GB,Dead,R 115.50
+iPhone 12 Mini,64GB,Poor,R 115.50
+iPhone 12 Mini,64GB,Good,"R 3,394.60"
+iPhone 12 Mini,64GB,Mint,"R 3,612.40"
+iPhone 12 Mini,64GB,Sealed,"R 4,486.90"
+iPhone 12 Mini,128GB,,
+iPhone 12 Mini,128GB,Dead,R 115.50
+iPhone 12 Mini,128GB,Poor,R 115.50
+iPhone 12 Mini,128GB,Good,"R 3,944.60"
+iPhone 12 Mini,128GB,Mint,"R 4,162.40"
+iPhone 12 Mini,128GB,Sealed,"R 5,036.90"
+iPhone 12 Mini,256GB,,
+iPhone 12 Mini,256GB,Dead,R 115.50
+iPhone 12 Mini,256GB,Poor,R 115.50
+iPhone 12 Mini,256GB,Good,"R 4,494.60"
+iPhone 12 Mini,256GB,Mint,"R 4,712.40"
+iPhone 12 Mini,256GB,Sealed,"R 5,586.90"
+iPhone 12 Pro,,,
+iPhone 12 Pro,128GB,,
+iPhone 12 Pro,128GB,Dead,R 115.50
+iPhone 12 Pro,128GB,Poor,R 115.50
+iPhone 12 Pro,128GB,Good,"R 5,497.80"
+iPhone 12 Pro,128GB,Mint,"R 5,856.40"
+iPhone 12 Pro,128GB,Sealed,"R 7,291.90"
+iPhone 12 Pro,256GB,,
+iPhone 12 Pro,256GB,Dead,R 115.50
+iPhone 12 Pro,256GB,Poor,R 115.50
+iPhone 12 Pro,256GB,Good,"R 6,047.80"
+iPhone 12 Pro,256GB,Mint,"R 6,406.40"
+iPhone 12 Pro,256GB,Sealed,"R 7,841.90"
+iPhone 12 Pro,512GB,,
+iPhone 12 Pro,512GB,Dead,R 115.50
+iPhone 12 Pro,512GB,Poor,R 115.50
+iPhone 12 Pro,512GB,Good,"R 6,597.80"
+iPhone 12 Pro,512GB,Mint,"R 6,956.40"
+iPhone 12 Pro,512GB,Sealed,"R 8,391.90"
+iPhone 12 Pro Max,,,
+iPhone 12 Pro Max,128GB,,
+iPhone 12 Pro Max,128GB,Dead,R 115.50
+iPhone 12 Pro Max,128GB,Poor,R 115.50
+iPhone 12 Pro Max,128GB,Good,"R 6,487.80"
+iPhone 12 Pro Max,128GB,Mint,"R 6,912.40"
+iPhone 12 Pro Max,128GB,Sealed,"R 8,611.90"
+iPhone 12 Pro Max,256GB,,
+iPhone 12 Pro Max,256GB,Dead,R 115.50
+iPhone 12 Pro Max,256GB,Poor,R 115.50
+iPhone 12 Pro Max,256GB,Good,"R 7,037.80"
+iPhone 12 Pro Max,256GB,Mint,"R 7,462.40"
+iPhone 12 Pro Max,256GB,Sealed,"R 9,161.90"
+iPhone 12 Pro Max,512GB,,
+iPhone 12 Pro Max,512GB,Dead,R 115.50
+iPhone 12 Pro Max,512GB,Poor,R 115.50
+iPhone 12 Pro Max,512GB,Good,"R 7,587.80"
+iPhone 12 Pro Max,512GB,Mint,"R 8,012.40"
+iPhone 12 Pro Max,512GB,Sealed,"R 9,711.90"
+iPhone 13,,,
+iPhone 13,128GB,,
+iPhone 13,128GB,Dead,R 115.50
+iPhone 13,128GB,Poor,R 115.50
+iPhone 13,128GB,Good,"R 5,450.50"
+iPhone 13,128GB,Mint,"R 5,806.90"
+iPhone 13,128GB,Sealed,"R 7,229.20"
+iPhone 13,256GB,,
+iPhone 13,256GB,Dead,R 115.50
+iPhone 13,256GB,Poor,R 115.50
+iPhone 13,256GB,Good,"R 6,000.50"
+iPhone 13,256GB,Mint,"R 6,356.90"
+iPhone 13,256GB,Sealed,"R 7,779.20"
+iPhone 13,512GB,,
+iPhone 13,512GB,Dead,R 115.50
+iPhone 13,512GB,Poor,R 115.50
+iPhone 13,512GB,Good,"R 6,550.50"
+iPhone 13,512GB,Mint,"R 6,906.90"
+iPhone 13,512GB,Sealed,"R 8,329.20"
+iPhone 13 Mini,,,
+iPhone 13 Mini,128GB,,
+iPhone 13 Mini,128GB,Dead,R 115.50
+iPhone 13 Mini,128GB,Poor,R 115.50
+iPhone 13 Mini,128GB,Good,"R 5,374.60"
+iPhone 13 Mini,128GB,Mint,"R 5,724.40"
+iPhone 13 Mini,128GB,Sealed,"R 7,126.90"
+iPhone 13 Mini,256GB,,
+iPhone 13 Mini,256GB,Dead,R 115.50
+iPhone 13 Mini,256GB,Poor,R 115.50
+iPhone 13 Mini,256GB,Good,"R 5,924.60"
+iPhone 13 Mini,256GB,Mint,"R 6,274.40"
+iPhone 13 Mini,256GB,Sealed,"R 7,676.90"
+iPhone 13 Mini,512GB,,
+iPhone 13 Mini,512GB,Dead,R 115.50
+iPhone 13 Mini,512GB,Poor,R 115.50
+iPhone 13 Mini,512GB,Good,"R 6,474.60"
+iPhone 13 Mini,512GB,Mint,"R 6,824.40"
+iPhone 13 Mini,512GB,Sealed,"R 8,226.90"
+iPhone 13 Pro,,,
+iPhone 13 Pro,1TB,,
+iPhone 13 Pro,1TB,Dead,R 115.50
+iPhone 13 Pro,1TB,Poor,R 115.50
+iPhone 13 Pro,1TB,Good,"R 9,491.90"
+iPhone 13 Pro,1TB,Mint,"R 9,970.40"
+iPhone 13 Pro,1TB,Sealed,"R 11,884.40"
+iPhone 13 Pro,128GB,,
+iPhone 13 Pro,128GB,Dead,R 115.50
+iPhone 13 Pro,128GB,Poor,R 115.50
+iPhone 13 Pro,128GB,Good,"R 5,197.50"
+iPhone 13 Pro,128GB,Mint,"R 6,890.40"
+iPhone 13 Pro,128GB,Sealed,"R 8,584.40"
+iPhone 13 Pro,256GB,,
+iPhone 13 Pro,256GB,Dead,R 115.50
+iPhone 13 Pro,256GB,Poor,R 115.50
+iPhone 13 Pro,256GB,Good,"R 7,291.90"
+iPhone 13 Pro,256GB,Mint,"R 7,770.40"
+iPhone 13 Pro,256GB,Sealed,"R 9,684.40"
+iPhone 13 Pro,512GB,,
+iPhone 13 Pro,512GB,Dead,R 115.50
+iPhone 13 Pro,512GB,Poor,R 115.50
+iPhone 13 Pro,512GB,Good,"R 8,391.90"
+iPhone 13 Pro,512GB,Mint,"R 8,870.40"
+iPhone 13 Pro,512GB,Sealed,"R 10,784.40"
+iPhone 13 Pro Max,,,
+iPhone 13 Pro Max,1TB,,
+iPhone 13 Pro Max,1TB,Dead,R 115.50
+iPhone 13 Pro Max,1TB,Poor,R 115.50
+iPhone 13 Pro Max,1TB,Good,"R 9,381.90"
+iPhone 13 Pro Max,1TB,Mint,"R 9,926.40"
+iPhone 13 Pro Max,1TB,Sealed,"R 12,104.40"
+iPhone 13 Pro Max,128GB,,
+iPhone 13 Pro Max,128GB,Dead,R 115.50
+iPhone 13 Pro Max,128GB,Poor,R 115.50
+iPhone 13 Pro Max,128GB,Good,"R 7,731.90"
+iPhone 13 Pro Max,128GB,Mint,"R 8,276.40"
+iPhone 13 Pro Max,128GB,Sealed,"R 10,454.40"
+iPhone 13 Pro Max,256GB,,
+iPhone 13 Pro Max,256GB,Dead,R 115.50
+iPhone 13 Pro Max,256GB,Poor,R 115.50
+iPhone 13 Pro Max,256GB,Good,"R 8,281.90"
+iPhone 13 Pro Max,256GB,Mint,"R 8,826.40"
+iPhone 13 Pro Max,256GB,Sealed,"R 11,004.40"
+iPhone 13 Pro Max,512GB,,
+iPhone 13 Pro Max,512GB,Dead,R 115.50
+iPhone 13 Pro Max,512GB,Poor,R 115.50
+iPhone 13 Pro Max,512GB,Good,"R 8,831.90"
+iPhone 13 Pro Max,512GB,Mint,"R 9,376.40"
+iPhone 13 Pro Max,512GB,Sealed,"R 11,554.40"
+iPhone 14,,,
+iPhone 14,128GB,,
+iPhone 14,128GB,Dead,R 115.50
+iPhone 14,128GB,Poor,R 115.50
+iPhone 14,128GB,Good,"R 6,487.80"
+iPhone 14,128GB,Mint,"R 6,912.40"
+iPhone 14,128GB,Sealed,"R 8,611.90"
+iPhone 14,256GB,,
+iPhone 14,256GB,Dead,R 115.50
+iPhone 14,256GB,Poor,R 115.50
+iPhone 14,256GB,Good,"R 7,037.80"
+iPhone 14,256GB,Mint,"R 7,462.40"
+iPhone 14,256GB,Sealed,"R 9,161.90"
+iPhone 14,512GB,,
+iPhone 14,512GB,Dead,R 115.50
+iPhone 14,512GB,Poor,R 115.50
+iPhone 14,512GB,Good,"R 7,587.80"
+iPhone 14,512GB,Mint,"R 8,012.40"
+iPhone 14,512GB,Sealed,"R 9,711.90"
+iPhone 14 Plus,,,
+iPhone 14 Plus,1TB,,
+iPhone 14 Plus,1TB,Dead,R 115.50
+iPhone 14 Plus,1TB,Poor,R 115.50
+iPhone 14 Plus,1TB,Good,"R 9,127.80"
+iPhone 14 Plus,1TB,Mint,"R 9,618.40"
+iPhone 14 Plus,1TB,Sealed,"R 11,581.90"
+iPhone 14 Plus,128GB,,
+iPhone 14 Plus,128GB,Dead,R 115.50
+iPhone 14 Plus,128GB,Poor,R 115.50
+iPhone 14 Plus,128GB,Good,"R 7,477.80"
+iPhone 14 Plus,128GB,Mint,"R 7,968.40"
+iPhone 14 Plus,128GB,Sealed,"R 9,931.90"
+iPhone 14 Plus,256GB,,
+iPhone 14 Plus,256GB,Dead,R 115.50
+iPhone 14 Plus,256GB,Poor,R 115.50
+iPhone 14 Plus,256GB,Good,"R 8,027.80"
+iPhone 14 Plus,256GB,Mint,"R 8,518.40"
+iPhone 14 Plus,256GB,Sealed,"R 10,481.90"
+iPhone 14 Plus,512GB,,
+iPhone 14 Plus,512GB,Dead,R 115.50
+iPhone 14 Plus,512GB,Poor,R 115.50
+iPhone 14 Plus,512GB,Good,"R 8,577.80"
+iPhone 14 Plus,512GB,Mint,"R 9,068.40"
+iPhone 14 Plus,512GB,Sealed,"R 11,031.90"
+iPhone 14 Pro,,,
+iPhone 14 Pro,1TB,,
+iPhone 14 Pro,1TB,Dead,R 115.50
+iPhone 14 Pro,1TB,Poor,R 115.50
+iPhone 14 Pro,1TB,Good,"R 10,612.80"
+iPhone 14 Pro,1TB,Mint,"R 11,202.40"
+iPhone 14 Pro,1TB,Sealed,"R 13,561.90"
+iPhone 14 Pro,128GB,,
+iPhone 14 Pro,128GB,Dead,R 115.50
+iPhone 14 Pro,128GB,Poor,R 115.50
+iPhone 14 Pro,128GB,Good,"R 8,962.80"
+iPhone 14 Pro,128GB,Mint,"R 9,552.40"
+iPhone 14 Pro,128GB,Sealed,"R 11,911.90"
+iPhone 14 Pro,256GB,,
+iPhone 14 Pro,256GB,Dead,R 115.50
+iPhone 14 Pro,256GB,Poor,R 115.50
+iPhone 14 Pro,256GB,Good,"R 9,512.80"
+iPhone 14 Pro,256GB,Mint,"R 10,102.40"
+iPhone 14 Pro,256GB,Sealed,"R 12,461.90"
+iPhone 14 Pro,512GB,,
+iPhone 14 Pro,512GB,Dead,R 115.50
+iPhone 14 Pro,512GB,Poor,R 115.50
+iPhone 14 Pro,512GB,Good,"R 10,062.80"
+iPhone 14 Pro,512GB,Mint,"R 10,652.40"
+iPhone 14 Pro,512GB,Sealed,"R 13,011.90"
+iPhone 14 Pro Max,,,
+iPhone 14 Pro Max,1TB,,
+iPhone 14 Pro Max,1TB,Dead,R 115.50
+iPhone 14 Pro Max,1TB,Poor,R 115.50
+iPhone 14 Pro Max,1TB,Good,"R 12,021.90"
+iPhone 14 Pro Max,1TB,Mint,"R 12,795.20"
+iPhone 14 Pro Max,1TB,Sealed,"R 15,097.50"
+iPhone 14 Pro Max,128GB,,
+iPhone 14 Pro Max,128GB,Dead,R 115.50
+iPhone 14 Pro Max,128GB,Poor,R 115.50
+iPhone 14 Pro Max,128GB,Good,"R 10,371.90"
+iPhone 14 Pro Max,128GB,Mint,"R 11,447.70"
+iPhone 14 Pro Max,128GB,Sealed,"R 13,448.60"
+iPhone 14 Pro Max,256GB,,
+iPhone 14 Pro Max,256GB,Dead,R 115.50
+iPhone 14 Pro Max,256GB,Poor,R 115.50
+iPhone 14 Pro Max,256GB,Good,"R 10,921.90"
+iPhone 14 Pro Max,256GB,Mint,"R 11,915.20"
+iPhone 14 Pro Max,256GB,Sealed,"R 13,997.50"
+iPhone 14 Pro Max,512GB,,
+iPhone 14 Pro Max,512GB,Dead,R 115.50
+iPhone 14 Pro Max,512GB,Poor,R 115.50
+iPhone 14 Pro Max,512GB,Good,"R 11,471.90"
+iPhone 14 Pro Max,512GB,Mint,"R 12,372.80"
+iPhone 14 Pro Max,512GB,Sealed,"R 14,536.50"
+iPhone 15,,,
+iPhone 15,128GB,,
+iPhone 15,128GB,Poor,R 115.50
+iPhone 15,128GB,Good,"R 8,281.90"
+iPhone 15,128GB,Mint,"R 8,826.40"
+iPhone 15,128GB,Sealed,"R 11,004.40"
+iPhone 15,256GB,,
+iPhone 15,256GB,Poor,R 115.50
+iPhone 15,256GB,Good,"R 9,381.90"
+iPhone 15,256GB,Mint,"R 9,926.40"
+iPhone 15,256GB,Sealed,"R 12,104.40"
+iPhone 15,512GB,,
+iPhone 15,512GB,Poor,R 115.50
+iPhone 15,512GB,Good,"R 10,481.90"
+iPhone 15,512GB,Mint,"R 11,026.40"
+iPhone 15,512GB,Sealed,"R 13,204.40"
+iPhone 15 Plus,,,
+iPhone 15 Plus,128GB,,
+iPhone 15 Plus,128GB,Poor,R 115.50
+iPhone 15 Plus,128GB,Good,"R 8,962.80"
+iPhone 15 Plus,128GB,Mint,"R 9,552.40"
+iPhone 15 Plus,128GB,Sealed,"R 11,911.90"
+iPhone 15 Plus,256GB,,
+iPhone 15 Plus,256GB,Poor,R 115.50
+iPhone 15 Plus,256GB,Good,"R 10,062.80"
+iPhone 15 Plus,256GB,Mint,"R 10,652.40"
+iPhone 15 Plus,256GB,Sealed,"R 13,011.90"
+iPhone 15 Plus,512GB,,
+iPhone 15 Plus,512GB,Poor,R 115.50
+iPhone 15 Plus,512GB,Good,"R 11,162.80"
+iPhone 15 Plus,512GB,Mint,"R 11,752.40"
+iPhone 15 Plus,512GB,Sealed,"R 14,111.90"
+iPhone 15 Pro,,,
+iPhone 15 Pro,1TB,,
+iPhone 15 Pro,1TB,Poor,R 115.50
+iPhone 15 Pro,1TB,Good,"R 12,531.20"
+iPhone 15 Pro,1TB,Mint,"R 13,248.40"
+iPhone 15 Pro,1TB,Sealed,"R 16,119.40"
+iPhone 15 Pro,128GB,,
+iPhone 15 Pro,128GB,Poor,R 115.50
+iPhone 15 Pro,128GB,Good,"R 10,881.20"
+iPhone 15 Pro,128GB,Mint,"R 11,598.40"
+iPhone 15 Pro,128GB,Sealed,"R 14,469.40"
+iPhone 15 Pro,256GB,,
+iPhone 15 Pro,256GB,Poor,R 115.50
+iPhone 15 Pro,256GB,Good,"R 11,492.80"
+iPhone 15 Pro,256GB,Mint,"R 11,431.20"
+iPhone 15 Pro,256GB,Sealed,"R 15,019.40"
+iPhone 15 Pro,512GB,Sealed,"R 15,569.40"
+iPhone 15 Pro Max,,,
+iPhone 15 Pro Max,1TB,,
+iPhone 15 Pro Max,1TB,Poor,R 115.50
+iPhone 15 Pro Max,1TB,Good,"R 13,032.80"
+iPhone 15 Pro Max,1TB,Mint,"R 13,820.40"
+iPhone 15 Pro Max,1TB,Sealed,"R 16,971.90"
+iPhone 15 Pro Max,256GB,,
+iPhone 15 Pro Max,256GB,Poor,R 115.50
+iPhone 15 Pro Max,256GB,Good,"R 11,932.80"
+iPhone 15 Pro Max,256GB,Mint,"R 12,720.40"
+iPhone 15 Pro Max,256GB,Sealed,"R 15,871.90"
+iPhone 15 Pro Max,512GB,,
+iPhone 15 Pro Max,512GB,Poor,R 115.50
+iPhone 15 Pro Max,512GB,Good,"R 12,482.80"
+iPhone 15 Pro Max,512GB,Mint,"R 13,270.40"
+iPhone 15 Pro Max,512GB,Sealed,"R 16,421.90"
+iPhone 16,,,
+iPhone 16,128GB,,
+iPhone 16,128GB,Poor,"R 4,798.20"
+iPhone 16,128GB,Good,"R 10,756.90"
+iPhone 16,128GB,Mint,"R 11,466.40"
+iPhone 16,128GB,Sealed,"R 14,304.40"
+iPhone 16,256GB,,
+iPhone 16,256GB,Poor,"R 5,898.20"
+iPhone 16,256GB,Good,"R 11,856.90"
+iPhone 16,256GB,Mint,"R 12,566.40"
+iPhone 16,256GB,Sealed,"R 15,404.40"
+iPhone 16,512GB,,
+iPhone 16,512GB,Poor,"R 6,998.20"
+iPhone 16,512GB,Good,"R 12,956.90"
+iPhone 16,512GB,Mint,"R 13,666.40"
+iPhone 16,512GB,Sealed,"R 16,504.40"
+iPhone 16 Plus,,,
+iPhone 16 Plus,128GB,,
+iPhone 16 Plus,128GB,Poor,"R 6,468.00"
+iPhone 16 Plus,128GB,Good,"R 11,746.90"
+iPhone 16 Plus,128GB,Mint,"R 12,522.40"
+iPhone 16 Plus,128GB,Sealed,"R 15,624.40"
+iPhone 16 Plus,256GB,Sealed,"R 16,174.40"
+iPhone 16 Plus,512GB,,
+iPhone 16 Plus,512GB,Poor,"R 8,668.00"
+iPhone 16 Plus,512GB,Good,"R 12,846.90"
+iPhone 16 Plus,512GB,Mint,"R 13,622.40"
+iPhone 16 Plus,512GB,Sealed,"R 16,724.40"
+iPhone 16 Pro,,,
+iPhone 16 Pro,1TB,,
+iPhone 16 Pro,1TB,Poor,"R 9,900.00"
+iPhone 16 Pro,1TB,Good,"R 14,449.60"
+iPhone 16 Pro,1TB,Mint,"R 15,294.40"
+iPhone 16 Pro,1TB,Sealed,"R 18,676.90"
+iPhone 16 Pro,128GB,,
+iPhone 16 Pro,128GB,Poor,"R 6,017.00"
+iPhone 16 Pro,128GB,Good,"R 12,799.60"
+iPhone 16 Pro,128GB,Mint,"R 13,644.40"
+iPhone 16 Pro,128GB,Sealed,"R 17,026.90"
+iPhone 16 Pro,256GB,,
+iPhone 16 Pro,256GB,Poor,"R 7,150.00"
+iPhone 16 Pro,256GB,Good,"R 13,349.60"
+iPhone 16 Pro,256GB,Mint,"R 14,194.40"
+iPhone 16 Pro,256GB,Sealed,"R 17,576.90"
+iPhone 16 Pro,512GB,,
+iPhone 16 Pro,512GB,Poor,"R 8,250.00"
+iPhone 16 Pro,512GB,Good,"R 13,899.60"
+iPhone 16 Pro,512GB,Mint,"R 14,744.40"
+iPhone 16 Pro,512GB,Sealed,"R 18,126.90"
+iPhone 16 Pro Max,,,
+iPhone 16 Pro Max,1TB,,
+iPhone 16 Pro Max,1TB,Poor,"R 6,738.60"
+iPhone 16 Pro Max,1TB,Good,"R 15,446.20"
+iPhone 16 Pro Max,1TB,Mint,"R 16,394.40"
+iPhone 16 Pro Max,1TB,Sealed,"R 20,189.40"
+iPhone 16 Pro Max,256GB,,
+iPhone 16 Pro Max,256GB,Poor,"R 7,012.50"
+iPhone 16 Pro Max,256GB,Good,"R 14,346.20"
+iPhone 16 Pro Max,256GB,Mint,"R 15,294.40"
+iPhone 16 Pro Max,256GB,Sealed,"R 19,089.40"
+iPhone 16 Pro Max,512GB,,
+iPhone 16 Pro Max,512GB,Poor,"R 5,638.60"
+iPhone 16 Pro Max,512GB,Good,"R 14,896.20"
+iPhone 16 Pro Max,512GB,Mint,"R 15,844.40"
+iPhone 16 Pro Max,512GB,Sealed,"R 19,639.40"
+iPhone 16e,,,
+iPhone 16e,128GB,,
+iPhone 16e,128GB,Dead,"R 2,789.60"
+iPhone 16e,128GB,Poor,"R 3,994.10"
+iPhone 16e,128GB,Good,"R 9,396.20"
+iPhone 16e,128GB,Mint,"R 10,014.40"
+iPhone 16e,128GB,Sealed,"R 12,489.40"
+iPhone 16e,256GB,,
+iPhone 16e,256GB,Dead,"R 3,834.60"
+iPhone 16e,256GB,Poor,"R 5,039.10"
+iPhone 16e,256GB,Good,"R 10,496.20"
+iPhone 16e,256GB,Mint,"R 11,114.40"
+iPhone 16e,256GB,Sealed,"R 13,039.40"
+iPhone 16e,512GB,,
+iPhone 16e,512GB,Dead,"R 4,879.60"
+iPhone 16e,512GB,Poor,"R 6,084.10"
+iPhone 16e,512GB,Good,"R 11,596.20"
+iPhone 16e,512GB,Mint,"R 12,214.40"
+iPhone 16e,512GB,Sealed,"R 13,589.40"
+iPhone 17,,,
+iPhone 17,256GB,,
+iPhone 17,256GB,Good,"R 11,872.30"
+iPhone 17,256GB,Mint,"R 12,655.50"
+iPhone 17,256GB,Sealed,"R 15,790.50"
+iPhone 17,512GB,,
+iPhone 17,512GB,Good,"R 12,972.30"
+iPhone 17,512GB,Mint,"R 13,755.50"
+iPhone 17,512GB,Sealed,"R 16,890.50"
+iPhone 17 Air,,,
+iPhone 17 Air,1TB,,
+iPhone 17 Air,1TB,Good,"R 13,590.50"
+iPhone 17 Air,1TB,Mint,"R 14,415.50"
+iPhone 17 Air,1TB,Sealed,"R 17,715.50"
+iPhone 17 Air,256GB,,
+iPhone 17 Air,256GB,Good,"R 12,490.50"
+iPhone 17 Air,256GB,Mint,"R 13,315.50"
+iPhone 17 Air,256GB,Sealed,"R 16,615.50"
+iPhone 17 Air,512GB,,
+iPhone 17 Air,512GB,Good,"R 13,040.50"
+iPhone 17 Air,512GB,Mint,"R 13,865.50"
+iPhone 17 Air,512GB,Sealed,"R 17,165.50"
+iPhone 17 Pro,,,
+iPhone 17 Pro,1TB,,
+iPhone 17 Pro,1TB,Good,"R 19,639.40"
+iPhone 17 Pro,1TB,Mint,"R 20,794.40"
+iPhone 17 Pro,1TB,Sealed,"R 25,414.40"
+iPhone 17 Pro,256GB,,
+iPhone 17 Pro,256GB,Good,"R 17,439.40"
+iPhone 17 Pro,256GB,Mint,"R 18,594.40"
+iPhone 17 Pro,256GB,Sealed,"R 23,214.40"
+iPhone 17 Pro,512GB,,
+iPhone 17 Pro,512GB,Good,"R 18,539.40"
+iPhone 17 Pro,512GB,Mint,"R 19,694.40"
+iPhone 17 Pro,512GB,Sealed,"R 24,314.40"
+iPhone 17 Pro Max,,,
+iPhone 17 Pro Max,1TB,,
+iPhone 17 Pro Max,1TB,Good,"R 19,949.60"
+iPhone 17 Pro Max,1TB,Mint,"R 21,125.50"
+iPhone 17 Pro Max,1TB,Sealed,"R 25,828.00"
+iPhone 17 Pro Max,256GB,,
+iPhone 17 Pro Max,256GB,Good,"R 17,749.60"
+iPhone 17 Pro Max,256GB,Mint,"R 18,925.50"
+iPhone 17 Pro Max,256GB,Sealed,"R 23,628.00"
+iPhone 17 Pro Max,512GB,,
+iPhone 17 Pro Max,512GB,Good,"R 18,849.60"
+iPhone 17 Pro Max,512GB,Mint,"R 20,025.50"
+iPhone 17 Pro Max,512GB,Sealed,"R 24,728.00"
+iPhone SE (2020),,,
+iPhone SE (2020),64GB,,
+iPhone SE (2020),64GB,Dead,R 115.50
+iPhone SE (2020),64GB,Poor,R 115.50
+iPhone SE (2020),64GB,Good,"R 1,944.80"
+iPhone SE (2020),64GB,Mint,"R 2,216.50"
+iPhone SE (2020),64GB,Sealed,"R 2,492.60"
+iPhone SE (2020),128GB,,
+iPhone SE (2020),128GB,Dead,R 115.50
+iPhone SE (2020),128GB,Poor,R 115.50
+iPhone SE (2020),128GB,Good,"R 2,216.50"
+iPhone SE (2020),128GB,Mint,"R 2,550.90"
+iPhone SE (2020),128GB,Sealed,"R 2,748.90"
+iPhone SE (2020),256GB,,
+iPhone SE (2020),256GB,Dead,R 115.50
+iPhone SE (2020),256GB,Poor,R 115.50
+iPhone SE (2020),256GB,Good,"R 2,539.90"
+iPhone SE (2020),256GB,Mint,"R 2,874.30"
+iPhone SE (2020),256GB,Sealed,"R 3,052.50"
+iPhone SE (2022),,,
+iPhone SE (2022),64GB,,
+iPhone SE (2022),64GB,Dead,R 115.50
+iPhone SE (2022),64GB,Poor,R 115.50
+iPhone SE (2022),64GB,Good,"R 2,121.90"
+iPhone SE (2022),64GB,Mint,"R 2,425.50"
+iPhone SE (2022),64GB,Sealed,"R 2,723.60"
+iPhone SE (2022),128GB,,
+iPhone SE (2022),128GB,Dead,R 115.50
+iPhone SE (2022),128GB,Poor,R 115.50
+iPhone SE (2022),128GB,Good,"R 2,644.40"
+iPhone SE (2022),128GB,Mint,"R 3,010.70"
+iPhone SE (2022),128GB,Sealed,"R 3,157.00"
+iPhone SE (2022),256GB,,
+iPhone SE (2022),256GB,Dead,R 115.50
+iPhone SE (2022),256GB,Poor,R 115.50
+iPhone SE (2022),256GB,Good,"R 3,157.00"
+iPhone SE (2022),256GB,Mint,"R 3,480.40"
+iPhone SE (2022),256GB,Sealed,"R 3,773.00"
+iPhone X,,,
+iPhone X,64GB,,
+iPhone X,64GB,Dead,R 115.50
+iPhone X,64GB,Poor,R 115.50
+iPhone X,64GB,Good,"R 2,819.30"
+iPhone X,64GB,Mint,"R 2,998.60"
+iPhone X,64GB,Sealed,"R 3,720.20"
+iPhone X,256GB,,
+iPhone X,256GB,Dead,R 115.50
+iPhone X,256GB,Poor,R 115.50
+iPhone X,256GB,Good,"R 3,341.80"
+iPhone X,256GB,Mint,"R 3,521.10"
+iPhone X,256GB,Sealed,"R 4,242.70"
+iPhone XR,,,
+iPhone XR,64GB,,
+iPhone XR,64GB,Dead,R 115.50
+iPhone XR,64GB,Poor,R 115.50
+iPhone XR,64GB,Good,"R 3,053.60"
+iPhone XR,64GB,Mint,"R 3,249.40"
+iPhone XR,64GB,Sealed,"R 4,033.70"
+iPhone XR,128GB,,
+iPhone XR,128GB,Dead,R 115.50
+iPhone XR,128GB,Poor,R 115.50
+iPhone XR,128GB,Good,"R 3,576.10"
+iPhone XR,128GB,Mint,"R 3,771.90"
+iPhone XR,128GB,Sealed,"R 4,789.40"
+iPhone XR,256GB,,
+iPhone XR,256GB,Dead,R 115.50
+iPhone XR,256GB,Poor,R 115.50
+iPhone XR,256GB,Good,"R 4,098.60"
+iPhone XR,256GB,Mint,"R 4,294.40"
+iPhone XR,256GB,Sealed,"R 5,339.40"
+iPhone Xs,,,
+iPhone Xs,64GB,,
+iPhone Xs,64GB,Dead,R 115.50
+iPhone Xs,64GB,Poor,R 115.50
+iPhone Xs,64GB,Good,"R 2,290.20"
+iPhone Xs,64GB,Mint,"R 2,434.30"
+iPhone Xs,64GB,Sealed,"R 3,166.90"
+iPhone Xs,256GB,,
+iPhone Xs,256GB,Dead,R 115.50
+iPhone Xs,256GB,Poor,R 115.50
+iPhone Xs,256GB,Good,"R 2,812.70"
+iPhone Xs,256GB,Mint,"R 2,956.80"
+iPhone Xs,256GB,Sealed,"R 3,716.90"
+iPhone Xs,512GB,,
+iPhone Xs,512GB,Dead,R 115.50
+iPhone Xs,512GB,Poor,R 115.50
+iPhone Xs,512GB,Good,"R 3,335.20"
+iPhone Xs,512GB,Mint,"R 3,656.40"
+iPhone Xs,512GB,Sealed,"R 4,266.90"
+iPhone Xs Max,,,
+iPhone Xs Max,64GB,,
+iPhone Xs Max,64GB,Dead,R 115.50
+iPhone Xs Max,64GB,Poor,R 115.50
+iPhone Xs Max,64GB,Good,"R 2,642.20"
+iPhone Xs Max,64GB,Mint,"R 2,810.50"
+iPhone Xs Max,64GB,Sealed,"R 3,661.90"
+iPhone Xs Max,256GB,,
+iPhone Xs Max,256GB,Dead,R 115.50
+iPhone Xs Max,256GB,Poor,R 115.50
+iPhone Xs Max,256GB,Good,"R 3,164.70"
+iPhone Xs Max,256GB,Mint,"R 3,502.40"
+iPhone Xs Max,256GB,Sealed,"R 4,211.90"
+iPhone Xs Max,512GB,,
+iPhone Xs Max,512GB,Dead,R 115.50
+iPhone Xs Max,512GB,Poor,R 115.50
+iPhone Xs Max,512GB,Good,"R 3,875.30"
+iPhone Xs Max,512GB,Mint,"R 4,052.40"
+iPhone Xs Max,512GB,Sealed,"R 4,761.90"
